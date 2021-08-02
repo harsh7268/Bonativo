@@ -504,8 +504,8 @@ img{
     color:blueviolet;
 }
 .contact-form .submit-btn{
-    display:flex;
-    justify-content:flex-end;
+      margin-left:30px;
+	
 }
 /*footer*/
 footer{
