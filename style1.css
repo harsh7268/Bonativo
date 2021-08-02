@@ -16,6 +16,10 @@ ul{
 img{
     width:100%;
 }
+.hidden{
+    visibility: hidden;
+    height:0;
+}
 .btn{
     color:black;
     background-color:white;
